@@ -1,0 +1,1203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="de-DE" original="Please update this value">
+    <body>
+      <group id="body">
+        <trans-unit id="Report 1170786296 - NamedType 1520306054" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Phone</source>
+          <target>Tel.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Købsordre Lykke - NamedType vendorPhoneLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2942983287 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <target>Optionen</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Prod. Order - Mankoliste - Control Options - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1935503283 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Salesperson</source>
+          <target>Unsere Referenz</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order Confirmation - kopi - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="Report 1935503283 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total %1</source>
+          <target>Total %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order Confirmation - kopi - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Report 1935503283 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total %1 Incl. VAT</source>
+          <target>Total %1 Incl. VAT</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order Confirmation - kopi - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Report 1935503283 - NamedType 95063322" size-unit="char" translate="yes" xml:space="preserve">
+          <source>COPY</source>
+          <target>KOPI</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order Confirmation - kopi - NamedType Text003</note>
+        </trans-unit>
+        <trans-unit id="Report 1935503283 - NamedType 732759939" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order Confirmation %1</source>
+          <target>Auftragbestätigung %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order Confirmation - kopi - NamedType Text004</note>
+        </trans-unit>
+        <trans-unit id="Report 1935503283 - NamedType 4022464961" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page %1 of %2</source>
+          <target>Seite %1 von %2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order Confirmation - kopi - NamedType PageCaptionCap</note>
+        </trans-unit>
+        <trans-unit id="Report 1935503283 - NamedType 2008153173" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total %1 Excl. VAT</source>
+          <target>Total %1 Excl. VAT</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order Confirmation - kopi - NamedType Text006</note>
+        </trans-unit>
+        <trans-unit id="Report 1935503283 - NamedType 2219219549" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order No.</source>
+          <target>Autrag Nr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order Confirmation - kopi - NamedType OrderNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1935503283 - NamedType 817831222" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target>Beschreibung</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order Confirmation - kopi - NamedType DescriptionCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1935503283 - NamedType 3659909257" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unit Price</source>
+          <target>Preis</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order Confirmation - kopi - NamedType UnitPriceCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1935503283 - NamedType 1302573237" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payment Terms</source>
+          <target>Zahlung</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order Confirmation - kopi - NamedType PaymentTermsCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1935503283 - NamedType 3956110661" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shipment Method</source>
+          <target>Lieferbedingungen</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order Confirmation - kopi - NamedType ShipmentMethodCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1935503283 - NamedType 2728513993" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Date</source>
+          <target>Datum</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order Confirmation - kopi - NamedType DocumentDateCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1935503283 - NamedType 3326908823" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoice address</source>
+          <target>Rechnungsadresse</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order Confirmation - kopi - NamedType InvAddressLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1935503283 - NamedType 3717331931" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delivery address</source>
+          <target>Lieferungsadresse</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order Confirmation - kopi - NamedType DelAddressLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1935503283 - NamedType 3608186908" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoice Cust.No.</source>
+          <target>Kunden Nr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order Confirmation - kopi - NamedType InvoiceToLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1935503283 - NamedType 1095348740" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order date</source>
+          <target>Auftrag Datum</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order Confirmation - kopi - NamedType OrderDateLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1935503283 - NamedType 1757598358" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Your Ref.</source>
+          <target>Ihre Referenz</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order Confirmation - kopi - NamedType YourRefLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1935503283 - NamedType 797141500" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT No.</source>
+          <target>Ust.-IdNr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order Confirmation - kopi - NamedType VATnoLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1935503283 - NamedType 3938104762" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Number</source>
+          <target>Nummer</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order Confirmation - kopi - NamedType ItemNoLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1935503283 - NamedType 3525412601" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order Confirmation - kopi - NamedType lineDescrLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1935503283 - NamedType 3799236516" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delivery</source>
+          <target>Versand</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order Confirmation - kopi - NamedType lineDateLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1935503283 - NamedType 184732708" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Qty.</source>
+          <target>Menge</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order Confirmation - kopi - NamedType lineQtyLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1935503283 - NamedType 4090246475" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Price</source>
+          <target>Preis</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order Confirmation - kopi - NamedType linePriceLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1935503283 - NamedType 2075084803" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Disc.</source>
+          <target>Disc.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order Confirmation - kopi - NamedType lineDiscLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 1935503283 - NamedType 2196828844" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <target>Total</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order Confirmation - kopi - NamedType lineAmountLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 548234475 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <target>Optionen</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Prod. Order - LT jobkort - Control Options - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 388565690 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <target>Optionen</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Prod. Order - LT jobkort SRN - Control Options - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2407967706 - NamedType 3626925049" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <target>Artikel Nr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Service Order Lykketronic - NamedType DynItemNo</note>
+        </trans-unit>
+        <trans-unit id="Report 2407967706 - NamedType 2806220197" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <target>Art</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Service Order Lykketronic - NamedType DynType</note>
+        </trans-unit>
+        <trans-unit id="Report 2407967706 - NamedType 4127371699" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Service Item Serial No.</source>
+          <target>Service Art. Nr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Service Order Lykketronic - NamedType DynServSerial</note>
+        </trans-unit>
+        <trans-unit id="Report 2407967706 - NamedType 1887789897" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Service Shelf No.</source>
+          <target>Lagerort</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Service Order Lykketronic - NamedType DynShelf</note>
+        </trans-unit>
+        <trans-unit id="Report 2407967706 - NamedType 74220248" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Service Item No.</source>
+          <target>Service Artikel Nr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Service Order Lykketronic - NamedType DynServItem</note>
+        </trans-unit>
+        <trans-unit id="Report 2407967706 - NamedType 3790547721" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target>Bezeichnung</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Service Order Lykketronic - NamedType DynDescription2</note>
+        </trans-unit>
+        <trans-unit id="Report 2407967706 - NamedType 827547270" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Serial No.</source>
+          <target>Serie Nr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Service Order Lykketronic - NamedType DynSerialNo</note>
+        </trans-unit>
+        <trans-unit id="Report 2407967706 - NamedType 2953678151" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target>Ihrer Referenz</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Service Order Lykketronic - NamedType DynDescription</note>
+        </trans-unit>
+        <trans-unit id="Report 2407967706 - NamedType 578358721" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <target>Reparaturstatus</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Service Order Lykketronic - NamedType DynStatus</note>
+        </trans-unit>
+        <trans-unit id="Report 2407967706 - NamedType 1905024764" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order Time</source>
+          <target>Auftrags Uhrzeit</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Service Order Lykketronic - NamedType DynOrderTime</note>
+        </trans-unit>
+        <trans-unit id="Report 2407967706 - NamedType 3481404904" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Number</source>
+          <target>Auftrags Nr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Service Order Lykketronic - NamedType DynNumberCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2407967706 - NamedType 2198349054" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Repair status</source>
+          <target>Reparaturstatus</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Service Order Lykketronic - NamedType DynRepairCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2407967706 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Service Order %1</source>
+          <target>Service - Auftragsbestätigung %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Service Order Lykketronic - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Report 2407967706 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page %1 of %2</source>
+          <target>Seite %1 von %2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Service Order Lykketronic - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Report 2407967706 - NamedType 374451185" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Contract No.</source>
+          <target>Vertrags Nr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Service Order Lykketronic - NamedType ContractNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2407967706 - NamedType 962791048" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order Date</source>
+          <target>Auftrags Datum</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Service Order Lykketronic - NamedType ServiceHeaderOrderDateCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2407967706 - NamedType 3207853098" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoice to</source>
+          <target>Rechnungsadresse</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Service Order Lykketronic - NamedType InvoicetoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2407967706 - NamedType 4033593667" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Service Item Lines</source>
+          <target>Service Artikel Linien</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Service Order Lykketronic - NamedType ServiceItemLinesCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2407967706 - NamedType 2501827199" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Response Date</source>
+          <target>Antwort Datum</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Service Order Lykketronic - NamedType ServiceItemLineResponseDateCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2407967706 - NamedType 3249286298" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fault Comments</source>
+          <target>Fehlerbeschreibung</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Service Order Lykketronic - NamedType FaultCommentsCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2407967706 - NamedType 672431118" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Resolution Comments</source>
+          <target>Reparaturbeschreibung</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Service Order Lykketronic - NamedType ResolutionCommentsCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2407967706 - NamedType 3037909084" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity</source>
+          <target>Menge</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Service Order Lykketronic - NamedType QtyCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2407967706 - NamedType 3979953856" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Service Lines</source>
+          <target>Service Linien</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Service Order Lykketronic - NamedType ServiceLinesCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2407967706 - NamedType 3285233284" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <target>Betrag</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Service Order Lykketronic - NamedType AmountCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2407967706 - NamedType 1362227102" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Gross Amount</source>
+          <target>Bruttobetrag</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Service Order Lykketronic - NamedType GrossAmountCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2407967706 - NamedType 1583171122" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total</source>
+          <target>Gesamt</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Service Order Lykketronic - NamedType TotalCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3571759575 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Salesperson</source>
+          <target>Unsere Referenz</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Service - Shipment Lykketronic - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="Report 3571759575 - NamedType 95063322" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page %1 of %2</source>
+          <target>Seite %1 von %2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Service - Shipment Lykketronic - NamedType Text003</note>
+        </trans-unit>
+        <trans-unit id="Report 3571759575 - NamedType 3004293143" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shipment No.</source>
+          <target>Lieferschein Nr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Service - Shipment Lykketronic - NamedType ServiceShpHdrNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3571759575 - NamedType 2928019564" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Date</source>
+          <target>Datum</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Service - Shipment Lykketronic - NamedType ServiceShpHdrPostingDateCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3571759575 - NamedType 1594501356" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Service Shipment Item Line</source>
+          <target>Service Artikel Linien</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Service - Shipment Lykketronic - NamedType SrvcShpItemLineCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3571759575 - NamedType 416717848" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Service Shipment Line</source>
+          <target>Service Artikel Linien</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Service - Shipment Lykketronic - NamedType ServiceShpLineCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3571759575 - NamedType 3246368361" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity</source>
+          <target>Menge</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Service - Shipment Lykketronic - NamedType QuantityCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3571759575 - NamedType 601422815" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Serial No.</source>
+          <target>Serie Nr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Service - Shipment Lykketronic - NamedType SerialNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3571759575 - NamedType 817831222" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target>Bezeichnung</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Service - Shipment Lykketronic - NamedType DescriptionCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3571759575 - NamedType 1155328579" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Date</source>
+          <target>Belegdatum</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Service - Shipment Lykketronic - NamedType DocumentDateLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3571759575 - NamedType 208723375" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer No</source>
+          <target>Kunden Nr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Service - Shipment Lykketronic - NamedType SrvcShipHeaderCustNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3571759575 - NamedType 3786593292" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warranty</source>
+          <target>Garantie</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Service - Shipment Lykketronic - NamedType WarrantyCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 543628928 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Salesperson</source>
+          <target>Unser Referenz</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Service - Invoice Lykketronic - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="Report 543628928 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total %1</source>
+          <target>Gesamt %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Service - Invoice Lykketronic - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Report 543628928 - NamedType 732759939" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Service - Invoice %1</source>
+          <target>Service - Rechnung %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Service - Invoice Lykketronic - NamedType Text004</note>
+        </trans-unit>
+        <trans-unit id="Report 543628928 - NamedType 1370456556" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page %1 of %2</source>
+          <target>Seite %1 von %2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Service - Invoice Lykketronic - NamedType Text005</note>
+        </trans-unit>
+        <trans-unit id="Report 543628928 - NamedType 2343386794" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Reg. No.</source>
+          <target>Ust. -Idnr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Service - Invoice Lykketronic - NamedType CompanyInfoVATRegistrationNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 543628928 - NamedType 3866861393" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Due Date</source>
+          <target>Fällig am</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Service - Invoice Lykketronic - NamedType ServiceInvoiceHeaderDueDateCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 543628928 - NamedType 4241823392" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoice No.</source>
+          <target>Rechnungs Nr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Service - Invoice Lykketronic - NamedType InvoiceNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 543628928 - NamedType 3675439341" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Date</source>
+          <target>Datum</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Service - Invoice Lykketronic - NamedType ServiceInvoiceHeaderPostingDateCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 543628928 - NamedType 3659909257" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Salesprice</source>
+          <target>Preis</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Service - Invoice Lykketronic - NamedType UnitPriceCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 543628928 - NamedType 290435575" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Disc. %</source>
+          <target>Disc.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Service - Invoice Lykketronic - NamedType ServiceInvoiceLineLineDiscountCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 543628928 - NamedType 3285233284" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <target>Betrag</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Service - Invoice Lykketronic - NamedType AmountCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 543628928 - NamedType 3543880195" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ship date</source>
+          <target>Versand</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Service - Invoice Lykketronic - NamedType PostedShipmentDateCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 543628928 - NamedType 1105229007" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payment Terms</source>
+          <target>Zahlungsbedingungen</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Service - Invoice Lykketronic - NamedType PaymentTermsDescriptionCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 812345302 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Salesperson</source>
+          <target>Unsere Referenz</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Quote Lykketronic - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="Report 812345302 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total %1</source>
+          <target>Insgesamt %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Quote Lykketronic - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Report 812345302 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total %1 Incl. VAT</source>
+          <target>Insgesamt %1 mit MwSt.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Quote Lykketronic - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Report 812345302 - NamedType 95063322" size-unit="char" translate="yes" xml:space="preserve">
+          <source>COPY</source>
+          <target>KOPI</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Quote Lykketronic - NamedType Text003</note>
+        </trans-unit>
+        <trans-unit id="Report 812345302 - NamedType 732759939" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quote %1</source>
+          <target>Angebot %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Quote Lykketronic - NamedType Text004</note>
+        </trans-unit>
+        <trans-unit id="Report 812345302 - NamedType 1370456556" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page %1</source>
+          <target>Seite %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Quote Lykketronic - NamedType Text005</note>
+        </trans-unit>
+        <trans-unit id="Report 812345302 - NamedType 2008153173" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 Excl. VAT</source>
+          <target>%1 ohne MwSt.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Quote Lykketronic - NamedType Text006</note>
+        </trans-unit>
+        <trans-unit id="Report 812345302 - NamedType 322581705" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Registration No.</source>
+          <target>Ust.-IdNr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Quote Lykketronic - NamedType CompanyInfoVATRegNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 812345302 - NamedType 17364278" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quote No.</source>
+          <target>Angebot Nr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Quote Lykketronic - NamedType SalesHeaderNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 812345302 - NamedType 3659909257" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unit Price</source>
+          <target>Preis</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Quote Lykketronic - NamedType UnitPriceCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 812345302 - NamedType 2136812451" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Discount</source>
+          <target>Discount</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Quote Lykketronic - NamedType SalesLineLineDiscCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 812345302 - NamedType 3285233284" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <target>Betrag</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Quote Lykketronic - NamedType AmountCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 812345302 - NamedType 4049601073" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Amount</source>
+          <target>MwSt betrag</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Quote Lykketronic - NamedType VATAmtCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 812345302 - NamedType 1583171122" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total</source>
+          <target>Insgesamt</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Quote Lykketronic - NamedType TotalCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 812345302 - NamedType 1105229007" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payment Terms</source>
+          <target>Zahlung</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Quote Lykketronic - NamedType PaymentTermsDescriptionCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 812345302 - NamedType 2332305503" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shipment Method</source>
+          <target>Lieferbedingungen</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Quote Lykketronic - NamedType ShipmentMethodDescriptionCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 812345302 - NamedType 2728513993" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Date</source>
+          <target>Angebot Datum</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Quote Lykketronic - NamedType DocumentDateCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 812345302 - NamedType 3326908823" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoice address</source>
+          <target>Rechnungsadresse</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Quote Lykketronic - NamedType InvAddressLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 812345302 - NamedType 3717331931" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delivery address</source>
+          <target>Lieferadresse</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Quote Lykketronic - NamedType DelAddressLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 812345302 - NamedType 1095348740" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order date</source>
+          <target>Auftrag Datum</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Quote Lykketronic - NamedType OrderDateLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 812345302 - NamedType 1757598358" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Your Ref.</source>
+          <target>Ihre Ref.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Quote Lykketronic - NamedType YourRefLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 812345302 - NamedType 3387417720" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delivery</source>
+          <target>Termin</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Quote Lykketronic - NamedType shipDateLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 812345302 - NamedType 933917775" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SE/CVR-nr.</source>
+          <target>Ust.-IdNr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Quote Lykketronic - NamedType SEnoLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 812345302 - NamedType 176034214" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer No.</source>
+          <target>Kunden Nr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Quote Lykketronic - NamedType invCustLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2688991136 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Salesperson</source>
+          <target>Unsere Referenz</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order Confirmation Lykketronic - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="Report 2688991136 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total %1</source>
+          <target>Total %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order Confirmation Lykketronic - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Report 2688991136 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total %1 Incl. VAT</source>
+          <target>Total %1 Inkl. MwSt</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order Confirmation Lykketronic - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Report 2688991136 - NamedType 95063322" size-unit="char" translate="yes" xml:space="preserve">
+          <source>COPY</source>
+          <target>KOPI</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order Confirmation Lykketronic - NamedType Text003</note>
+        </trans-unit>
+        <trans-unit id="Report 2688991136 - NamedType 732759939" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order Confirmation %1</source>
+          <target>Auftragbestätigung %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order Confirmation Lykketronic - NamedType Text004</note>
+        </trans-unit>
+        <trans-unit id="Report 2688991136 - NamedType 4022464961" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page %1 of %2</source>
+          <target>Seite %1 von %2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order Confirmation Lykketronic - NamedType PageCaptionCap</note>
+        </trans-unit>
+        <trans-unit id="Report 2688991136 - NamedType 2008153173" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total %1 Excl. VAT</source>
+          <target>Total %1 Exkl. MwSt</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order Confirmation Lykketronic - NamedType Text006</note>
+        </trans-unit>
+        <trans-unit id="Report 2688991136 - NamedType 2219219549" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order No.</source>
+          <target>Autrag Nr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order Confirmation Lykketronic - NamedType OrderNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2688991136 - NamedType 817831222" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target>Beschreibung</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order Confirmation Lykketronic - NamedType DescriptionCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2688991136 - NamedType 4049601073" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Amount</source>
+          <target>Umsatzsteuerbetrag</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order Confirmation Lykketronic - NamedType VATAmtCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2688991136 - NamedType 3659909257" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unit Price</source>
+          <target>Preis</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order Confirmation Lykketronic - NamedType UnitPriceCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2688991136 - NamedType 1302573237" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payment Terms</source>
+          <target>Zahlung</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order Confirmation Lykketronic - NamedType PaymentTermsCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2688991136 - NamedType 3956110661" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shipment Method</source>
+          <target>Lieferbedingungen</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order Confirmation Lykketronic - NamedType ShipmentMethodCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2688991136 - NamedType 2728513993" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Date</source>
+          <target>Datum</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order Confirmation Lykketronic - NamedType DocumentDateCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2688991136 - NamedType 3326908823" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoice address</source>
+          <target>Rechnungsadresse</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order Confirmation Lykketronic - NamedType InvAddressLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2688991136 - NamedType 3717331931" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delivery address</source>
+          <target>Lieferungsadresse</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order Confirmation Lykketronic - NamedType DelAddressLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2688991136 - NamedType 3608186908" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoice Cust.No.</source>
+          <target>Kunden Nr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order Confirmation Lykketronic - NamedType InvoiceToLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2688991136 - NamedType 1095348740" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order date</source>
+          <target>Auftrag Datum</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order Confirmation Lykketronic - NamedType OrderDateLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2688991136 - NamedType 1757598358" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Your Ref.</source>
+          <target>Ihre Referenz</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order Confirmation Lykketronic - NamedType YourRefLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2688991136 - NamedType 797141500" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT No.</source>
+          <target>Ust.-IdNr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order Confirmation Lykketronic - NamedType VATnoLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2688991136 - NamedType 3938104762" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Number</source>
+          <target>Nummer</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order Confirmation Lykketronic - NamedType ItemNoLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2688991136 - NamedType 3525412601" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order Confirmation Lykketronic - NamedType lineDescrLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2688991136 - NamedType 3799236516" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delivery</source>
+          <target>Versand</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order Confirmation Lykketronic - NamedType lineDateLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2688991136 - NamedType 184732708" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Qty.</source>
+          <target>Menge</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order Confirmation Lykketronic - NamedType lineQtyLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2688991136 - NamedType 4090246475" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Price</source>
+          <target>Preis</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order Confirmation Lykketronic - NamedType linePriceLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2688991136 - NamedType 2075084803" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Disc.</source>
+          <target>Disc.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order Confirmation Lykketronic - NamedType lineDiscLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2688991136 - NamedType 2196828844" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <target>Total</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order Confirmation Lykketronic - NamedType lineAmountLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2688991136 - NamedType 883496091" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delivered</source>
+          <target>Geliefert</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Order Confirmation Lykketronic - NamedType DelCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2254455979 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Our Reference</source>
+          <target>Ihre Referenz</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Invoice Lykketronic - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="Report 2254455979 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total %1</source>
+          <target>Gesamt %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Invoice Lykketronic - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Report 2254455979 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total %1 Incl. VAT</source>
+          <target>Gesamt %1 incl. MwSt.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Invoice Lykketronic - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Report 2254455979 - NamedType 732759939" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoice %1</source>
+          <target>Rechnung %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Invoice Lykketronic - NamedType Text004</note>
+        </trans-unit>
+        <trans-unit id="Report 2254455979 - NamedType 4022464961" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page %1 of %2</source>
+          <target>Seite %1 von %2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Invoice Lykketronic - NamedType PageCaptionCap</note>
+        </trans-unit>
+        <trans-unit id="Report 2254455979 - NamedType 2008153173" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total %1 Excl. VAT</source>
+          <target>Gesamt ohne MwSt.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Invoice Lykketronic - NamedType Text006</note>
+        </trans-unit>
+        <trans-unit id="Report 2254455979 - NamedType 4123596239" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Your Reference</source>
+          <target>Ihre Referenz</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Invoice Lykketronic - NamedType text091</note>
+        </trans-unit>
+        <trans-unit id="Report 2254455979 - NamedType 2845404719" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Due Date</source>
+          <target>Fällig am</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Invoice Lykketronic - NamedType SalesInvDueDateCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2254455979 - NamedType 3319152384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoice No.</source>
+          <target>Rechnung Nr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Invoice Lykketronic - NamedType InvNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2254455979 - NamedType 353376914" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Date</source>
+          <target>Datum</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Invoice Lykketronic - NamedType SalesInvPostingDateCptnLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2254455979 - NamedType 3659909257" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unit Price</source>
+          <target>Preis</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Invoice Lykketronic - NamedType UnitPriceCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2254455979 - NamedType 1817628762" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Disc.</source>
+          <target>Disc.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Invoice Lykketronic - NamedType SalesInvLineDiscCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2254455979 - NamedType 3285233284" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <target>Betrag</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Invoice Lykketronic - NamedType AmountCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2254455979 - NamedType 2047603120" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shipment</source>
+          <target>Lieferung</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Invoice Lykketronic - NamedType ShipmentCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2254455979 - NamedType 3169568710" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payment Terms</source>
+          <target>Zahlung</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Invoice Lykketronic - NamedType PaymentTermsDescCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2254455979 - NamedType 473417871" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shipment Method</source>
+          <target>Lieferung</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Invoice Lykketronic - NamedType ShptMethodDescCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2254455979 - NamedType 4049601073" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Amount</source>
+          <target>Umsatzsteuerbetrag</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Invoice Lykketronic - NamedType VATAmtCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2254455979 - NamedType 3905420206" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invoice Customer</source>
+          <target>Kunde Nr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Invoice Lykketronic - NamedType custNoLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2254455979 - NamedType 933917775" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Number</source>
+          <target>Ust.-IdNr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Invoice Lykketronic - NamedType SEnoLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2254455979 - NamedType 923152562" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Date</source>
+          <target>Datum</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Invoice Lykketronic - NamedType docDateLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2254455979 - NamedType 1099631441" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Our Reference</source>
+          <target>Ihre Referenz</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Invoice Lykketronic - NamedType salesPersonLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2254455979 - NamedType 2447794522" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item No.</source>
+          <target>Artikel Nr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Invoice Lykketronic - NamedType itemNoLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2254455979 - NamedType 4148398128" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target>Bezeichnung</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Invoice Lykketronic - NamedType descriptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2254455979 - NamedType 923607642" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Qty.</source>
+          <target>Menge</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Invoice Lykketronic - NamedType qtyLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2254455979 - NamedType 4038101003" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Del.Date</source>
+          <target>Versand</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Invoice Lykketronic - NamedType shippedLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2410750764 - NamedType 101076613" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Credit Note</source>
+          <target>Gutscrift</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Credit Mem Lykketronic - NamedType CNOTE</note>
+        </trans-unit>
+        <trans-unit id="Report 2410750764 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Our Reference</source>
+          <target>Unser Referenz</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Credit Mem Lykketronic - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="Report 2410750764 - NamedType 3114637384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total %1</source>
+          <target>Gesamt %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Credit Mem Lykketronic - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Report 2410750764 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total %1 Incl. VAT</source>
+          <target>Gesamt %1 mit MwSt.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Credit Mem Lykketronic - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Report 2410750764 - NamedType 4022464961" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page %1 of %2</source>
+          <target>Seite %1 von %2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Credit Mem Lykketronic - NamedType PageCaptionCap</note>
+        </trans-unit>
+        <trans-unit id="Report 2410750764 - NamedType 2645849790" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total %1 Excl. VAT</source>
+          <target>Gesamt %1 ohne MwSt.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Credit Mem Lykketronic - NamedType Text007</note>
+        </trans-unit>
+        <trans-unit id="Report 2410750764 - NamedType 4123596239" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Your Reference</source>
+          <target>Ihre Referenz</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Credit Mem Lykketronic - NamedType text091</note>
+        </trans-unit>
+        <trans-unit id="Report 2410750764 - NamedType 1457731004" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Credit Memo No.</source>
+          <target>Gutschrift Nr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Credit Mem Lykketronic - NamedType No1_SalesCrMemoHeaderCptnLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2410750764 - NamedType 3483640192" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Disc.</source>
+          <target>Disc.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Credit Mem Lykketronic - NamedType SalesCrMemoLineDiscCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2410750764 - NamedType 3259830970" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Qty.</source>
+          <target>Menge</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Credit Mem Lykketronic - NamedType QtyLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2410750764 - NamedType 3905420206" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Credit Customer</source>
+          <target>Kundennummer</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Credit Mem Lykketronic - NamedType custNoLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2410750764 - NamedType 933917775" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Number</source>
+          <target>Ust.-IdNr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Credit Mem Lykketronic - NamedType SEnoLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2410750764 - NamedType 923152562" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Date</source>
+          <target>Datum</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Credit Mem Lykketronic - NamedType docDateLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2410750764 - NamedType 1099631441" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Our Reference</source>
+          <target>Ihre Referenz</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Credit Mem Lykketronic - NamedType salesPersonLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2410750764 - NamedType 2447794522" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item No.</source>
+          <target>Artikel Nr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Credit Mem Lykketronic - NamedType itemNoLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2410750764 - NamedType 4148398128" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target>Bezeichnung</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Credit Mem Lykketronic - NamedType descriptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2410750764 - NamedType 3146378439" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Received</source>
+          <target> </target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Credit Mem Lykketronic - NamedType receivedLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2410750764 - NamedType 673953313" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unit Price</source>
+          <target>Preis</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Credit Mem Lykketronic - NamedType priceLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2410750764 - NamedType 830988681" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Disc.</source>
+          <target>Disc.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Credit Mem Lykketronic - NamedType discLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2410750764 - NamedType 3302170034" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <target>Betrag</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Credit Mem Lykketronic - NamedType amountLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 334550812 - NamedType 1508861327" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delivery Note</source>
+          <target>Lieferschein</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Shipment Lykketronic - NamedType delNote</note>
+        </trans-unit>
+        <trans-unit id="Report 334550812 - NamedType 3752334001" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delivery Note %1</source>
+          <target>Lieferschein %1</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Shipment Lykketronic - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Report 334550812 - NamedType 4217840372" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shipment Date</source>
+          <target>Versand Tag</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Shipment Lykketronic - NamedType ShipmentDateCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 334550812 - NamedType 2728513993" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document Date</source>
+          <target>Datum</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Shipment Lykketronic - NamedType DocumentDateCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 334550812 - NamedType 3246368361" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity</source>
+          <target>Menge</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Shipment Lykketronic - NamedType QuantityCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 334550812 - NamedType 817831222" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target>Bezeichnung</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Shipment Lykketronic - NamedType DescriptionCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 334550812 - NamedType 1292293871" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <target>Nummer</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Shipment Lykketronic - NamedType NoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 334550812 - NamedType 4022464961" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page %1 of %2</source>
+          <target>Seite %1 von %2</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Shipment Lykketronic - NamedType PageCaptionCap</note>
+        </trans-unit>
+        <trans-unit id="Report 334550812 - NamedType 163307534" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Your Ref.</source>
+          <target>BRUGES?</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Shipment Lykketronic - NamedType ExtDocNoLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 334550812 - NamedType 2688342311" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delivery Terms</source>
+          <target>Lieferungsbedingungen</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Shipment Lykketronic - NamedType shipmentMethodLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 334550812 - NamedType 2923953999" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Order No.</source>
+          <target>Auftrag Nr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Shipment Lykketronic - NamedType orderNoLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 334550812 - NamedType 3035668214" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Your reference</source>
+          <target>Ihre Referenz</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Shipment Lykketronic - NamedType yourRefLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 334550812 - NamedType 1399140350" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Weight kg.</source>
+          <target>Gewicht Kg.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Shipment Lykketronic - NamedType weightLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 334550812 - NamedType 3905420206" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer No.</source>
+          <target>Kunden Nr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Shipment Lykketronic - NamedType custNoLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 334550812 - NamedType 4124959153" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shipment No.</source>
+          <target>Lieferschein Nr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Shipment Lykketronic - NamedType delNoteLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 334550812 - NamedType 1099631441" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Our Reference</source>
+          <target>Ihre Referenz</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Shipment Lykketronic - NamedType salesPersonLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 334550812 - NamedType 2447794522" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item No.</source>
+          <target>Artikel Nr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Shipment Lykketronic - NamedType itemNoLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 334550812 - NamedType 4148398128" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target>Bezeichnung</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Shipment Lykketronic - NamedType descriptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 334550812 - NamedType 923607642" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Qty.</source>
+          <target>Menge</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Shipment Lykketronic - NamedType qtyLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 334550812 - NamedType 2990798199" size-unit="char" translate="yes" xml:space="preserve">
+          <source>UOM</source>
+          <target>Einheit</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Sales - Shipment Lykketronic - NamedType uomLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2064978986 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <target>Optionen</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Prod. Order - LT jobkort 50310 - Control Options - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
